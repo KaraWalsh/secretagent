@@ -1,0 +1,33 @@
+* {
+  color: white;
+  background-color: black;
+}
+
+body {
+  font-family: Helvetica;
+  font-size: 18px;
+  margin: 0;
+}
+
+header {
+  display: block;
+  background-color: black;
+}
+
+.container {
+  width: 960px;
+  margin: 0 auto;
+}
+
+.logo {
+  display: inline-block;
+  height: 1.5rem;
+  padding-left: 0.5rem;
+  vertical-align: middle;
+}
+
+.logotext {
+  display: inline-block;
+  font-size: 1rem;
+  padding: 0.66rem 1rem;
+}
